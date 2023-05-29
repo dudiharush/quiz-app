@@ -27,7 +27,7 @@ after the quiz is finished, you can restart it by going to the home page and ref
 - Can inform components transiently (without causing render)
 - very popular and has a big community
 
-# project file structure
+# project files structure
 
 pages - for components that have a route, like: LoginPage, QuizPage etc
 and for components that are specific to the page
