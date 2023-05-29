@@ -1,4 +1,4 @@
-#install & run steps:
+# install & run steps:
 
 1. git clone the repo
 2. cd into the repo's folder
@@ -13,13 +13,13 @@ after the quiz is finished, you can restart it by going to the home page and ref
 
 #dataflow and state architecture is at file: architecture.dio
 
-#styling - tailwindcss:
+# styling - tailwindcss:
 
 - atomic classes are better than class names
 - very popular and has a big community
 - easy to customize, adapts to any design, and the build size is tiny
 
-#state management - zustand:
+# state management - zustand:
 
 - Simple and un-opinionated
 - Makes hooks the primary means of consuming state
@@ -27,7 +27,7 @@ after the quiz is finished, you can restart it by going to the home page and ref
 - Can inform components transiently (without causing render)
 - very popular and has a big community
 
-#project file structure
+# project file structure
 
 pages - for components that have a route, like: LoginPage, QuizPage etc
 and for components that are specific to the page
